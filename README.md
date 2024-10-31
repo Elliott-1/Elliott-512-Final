@@ -83,6 +83,7 @@ The third is used to create the linear regression model that is used to predict 
 3. smoke_impact_model_building.ipynb
 
 The final notebook is used to create the visualizations for step 2.
+
 4. Visualization_generator.ipynb
 
 
