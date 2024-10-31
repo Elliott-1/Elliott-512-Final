@@ -80,6 +80,7 @@ I currently have four notebooks that are used to generate the results and figure
 2. EPA_AQI_data_generator.ipynb
 
 The third is used to create the linear regression model that is used to predict the estimated smoke over the next 25 years.
+
 3. smoke_impact_model_building.ipynb
 
 The final notebook is used to create the visualizations for step 2.
